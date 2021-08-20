@@ -1,16 +1,16 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushmoura&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
-<!--
-**matheushmoura/matheushmoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, meu nome é Matheus Moura.
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/static/v1?label=Overview&message=matheushmoura&color=f8efd4&style=for-the-badge&logo=GitHub">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+
+
+
+
+</p>
+ <a href="https://www.linkedin.com/in/matheushmoura" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=f8efd4&link=https://www.linkedin.com/in/matheushmoura"/>
+<hr>
+
